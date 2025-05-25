@@ -57,5 +57,11 @@ o	Residuals were normally distributed.
 
 o	Some non-linearity was detected, suggesting potential for further feature transformation
 
-
 **Outcome**
+
+**Key Predictors Identified:**
+
+•	Positive influence: ad_impressions, trailer_views, certain genres like Thriller, Sci-Fi, Drama.
+
+•	Negative influence: major_sports_event (strongly reduces viewership).
+
