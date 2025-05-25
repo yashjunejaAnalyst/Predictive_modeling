@@ -59,7 +59,7 @@ o	Some non-linearity was detected, suggesting potential for further feature tran
 
 **Outcome**
 
-**Key Predictors Identified:**
+Key Predictors Identified-
 
 •	Positive influence: ad_impressions, trailer_views, certain genres like Thriller, Sci-Fi, Drama.
 
